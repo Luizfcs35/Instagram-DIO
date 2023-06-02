@@ -155,10 +155,10 @@ body {
 }
 
 .app:nth-child(odd) {
-  background-image: url('/assets/img/playstore-300x128.png');
+  background-image: url('/Instagram-DIO/assets/img/playstore-300x128.png');
 }
 .app:nth-child(even) {
-  background-image: url('/assets/img/icons-microsoft.png'); 
+  background-image: url('/Instagram-DIO/assets/img/icons-microsoft.png'); 
 }
 
 footer {
